@@ -1,6 +1,7 @@
 TrabalhosDeAeds
 ===============
-###EXERCÍCIO 1
+EXERCÍCIO 1
+------------
 - Na notação usual de expressões aritméticas, os operadores são escritos entre os operandos;
   por isso, a notação é chamada infixada. Na notação pós-fixada, ou polonesa, os operadores
   são escritos depois dos operandos. A Tabela 1 apresenta exemplos de expressões infixadas
