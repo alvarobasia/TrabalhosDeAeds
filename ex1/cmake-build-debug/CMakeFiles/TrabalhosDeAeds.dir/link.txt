@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/TrabalhosDeAeds.dir/main.c.o CMakeFiles/TrabalhosDeAeds.dir/stack.c.o CMakeFiles/TrabalhosDeAeds.dir/queue.c.o CMakeFiles/TrabalhosDeAeds.dir/ex1.c.o  -o TrabalhosDeAeds 

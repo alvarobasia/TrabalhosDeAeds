@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alvaro/Área de Trabalho/TrabalhosDeAeds/ex1/ex1.h
+stack.h
+/home/alvaro/Área de Trabalho/TrabalhosDeAeds/ex1/stack.h
+queue.h
+/home/alvaro/Área de Trabalho/TrabalhosDeAeds/ex1/queue.h
+
+/home/alvaro/Área de Trabalho/TrabalhosDeAeds/ex1/main.c
+stdio.h
+-
+stdlib.h
+-
+ex1.h
+/home/alvaro/Área de Trabalho/TrabalhosDeAeds/ex1/ex1.h
+
+/home/alvaro/Área de Trabalho/TrabalhosDeAeds/ex1/queue.h
+
+/home/alvaro/Área de Trabalho/TrabalhosDeAeds/ex1/stack.h
+stdlib.h
+-
+stdio.h
+-
+

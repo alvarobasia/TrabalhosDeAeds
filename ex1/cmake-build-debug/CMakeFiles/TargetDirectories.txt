@@ -1,0 +1,3 @@
+/home/alvaro/Área de Trabalho/TrabalhosDeAeds/ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alvaro/Área de Trabalho/TrabalhosDeAeds/ex1/cmake-build-debug/CMakeFiles/TrabalhosDeAeds.dir
+/home/alvaro/Área de Trabalho/TrabalhosDeAeds/ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
